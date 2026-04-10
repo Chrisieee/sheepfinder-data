@@ -4,6 +4,7 @@
       "id": 1,
       "title": "Hallo Dordrecht",
       "color": "red",
+      "kind": "statue",
       "coords": {
         "latitude": 51.814538135213255,
         "longitude": 4.666560468263881
@@ -13,6 +14,7 @@
       "id": 2,
       "title": "Van Roosmalen Optiek",
       "color": "orange",
+      "kind": "statue",
       "coords": {
         "latitude": 51.813178146129424,
         "longitude": 4.668735814737885
@@ -20,11 +22,32 @@
     },
     {
       "id": 3,
-      "title": "Hoefstraat",
+      "title": "Hoefijzerstraat",
       "color": "rainbow",
+      "kind": "statue",
       "coords": {
         "latitude": 51.81933242347461,
         "longitude": 4.67352074127469
+      }
+    },
+    {
+      "id": 4,
+      "title": "VVV Dordrecht",
+      "color": "white",
+      "kind": "image",
+      "coords": {
+        "latitude": 51.81181461359727,
+        "longitude": 4.667051056058765
+      }
+    },
+    {
+      "id": 5,
+      "title": "Vriesestraat",
+      "color": "white",
+      "kind": "statue",
+      "coords": {
+        "latitude": 51.81273933879691,
+        "longitude": 4.669614370972791
       }
     }
   ]
