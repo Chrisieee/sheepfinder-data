@@ -23,7 +23,7 @@
     {
       "id": 3,
       "title": "Hoefijzerstraat",
-      "color": "rainbow",
+      "color": "green",
       "kind": "statue",
       "coords": {
         "latitude": 51.81933242347461,
@@ -52,16 +52,26 @@
     },
     {
       "id": 6,
-      "title": "Studio Blijmakers",
-      "color": "blue",
+      "title": "Studio Blijmakers 1",
+      "color": "white",
       "kind": "statue",
       "coords": {
-        "latitude": 51.81943903355508,
-        "longitude": 4.674303355630231
+        "latitude": 51.81939860392499,
+        "longitude": 4.674292096997819
       }
     },
     {
       "id": 7,
+      "title": "Studio Blijmakers 2",
+      "color": "blue",
+      "kind": "statue",
+      "coords": {
+        "latitude": 51.81963762721663,
+        "longitude": 4.674127939561522
+      }
+    },
+    {
+      "id": 8,
       "title": "Schapenkoppen",
       "color": "yellow",
       "kind": "statue",
