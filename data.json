@@ -49,6 +49,26 @@
         "latitude": 51.81273933879691,
         "longitude": 4.669614370972791
       }
+    },
+    {
+      "id": 6,
+      "title": "Studio Blijmakers",
+      "color": "blue",
+      "kind": "statue",
+      "coords": {
+        "latitude": 51.81273933879691,
+        "longitude": 4.669614370972791
+      }
+    },
+    {
+      "id": 7,
+      "title": "Schapenkoppen",
+      "color": "yellow",
+      "kind": "statue",
+      "coords": {
+        "latitude": 51.79839056768833,
+        "longitude": 4.653455126067349
+      }
     }
   ]
 }
